@@ -1,0 +1,10 @@
+  505  git init
+  508  git config --globe user.email "samssvv1@gmail.com"
+  509  git config --global user.name "Sampada-VS"
+  510  git config user.email
+  511  git config user.name
+  512  nano .gitignore
+  517  nano .gitignore
+  519  git status
+  520  history | grep git
+  521  history | grep git > gitcmd.txt
